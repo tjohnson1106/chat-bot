@@ -6,6 +6,7 @@
     "aws-amplify": "^1.0.8",
     "aws-amplify-react": "^2.0.0",
     "react": "^16.4.2",
+    "react-chat-ui": "^0.3.2",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5"
   },
